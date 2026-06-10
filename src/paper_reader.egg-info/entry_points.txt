@@ -1,2 +1,2 @@
 [console_scripts]
-paper-reader = paper_reader.cli:app
+paper-reader = paper_reader.cli:main
